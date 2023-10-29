@@ -1,0 +1,9 @@
+*{ 
+font-size: 16pt;
+font-family: 'Times New Roman', Times, serif;}
+
+table{ text-align: center;}
+.preco{ font-size: 16pt;
+font-weight: bold;
+display: block;
+}
