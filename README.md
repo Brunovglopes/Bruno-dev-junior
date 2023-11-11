@@ -29,7 +29,7 @@
   
 ### Cursos 
    <a href="#"><img alt="DevQuest" src="https://img.shields.io/badge/DevQuest-8034A9?.svg?logo=Pluralsight&logoColor=white"></a>
-  
+     <a href="#"><img alt="Senai" src="https://img.shields.io/badge/Senai-2271B3?.svg?logo=Pluralsight&logoColor=white"></a>
    </div>
 <br>
  
